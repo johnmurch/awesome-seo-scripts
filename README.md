@@ -1,8 +1,15 @@
 # awesome-seo-scripts
-Random SEO scripts - WIP 
+Random SEO scripts - WIP
 
+## Archive.org
+This script allows you to download all the URLs from a given URL.
+
+``` cd archive.org && npm install ```
+``` node fetch.js https://www.domain.com```
+
+
+## Upcoming
 @TODO
-- archive.org
 - Redirect Checker
 - BigSitemap - Postgres + Puppeteer
 - SourceVSDom
