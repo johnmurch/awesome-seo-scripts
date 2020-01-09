@@ -5,7 +5,7 @@ I write a lot of random code around SEO and want to make more of it public in 20
 **If you have an idea, but not sure how to code it, hit me up [@johnmurch](https://www.twitter.com/johnmurch) on twitter**
 
 ## Archive.org
-This script allows you to download all the URLs from a given URL.
+This script allows you to download all the URLs from a given domain.
 
 ``` cd archive.org && npm install ```
 ``` node fetch.js https://www.domain.com```
