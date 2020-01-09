@@ -6,7 +6,7 @@ This script saves the DOM and Source from a URL. You can then diff these files t
 
 ```npm install```
 
-### Update the url line 7
+### Update the url in ```fetch.js``` (line 7)
 
 ## RUN
 
