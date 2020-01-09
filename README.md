@@ -19,14 +19,11 @@ This script reads URLs from urls.txt (One URL Per Line) and checks for redirects
 
 ## Upcoming
 @TODO
-- BigSitemap - Postgres + Puppeteer
 - SourceVSDom
-- MetaTags
-- headers
-- SEOCI - Automated SEO Testing
 - Backlink Checker
+- MetaTags Parsing
+- content extract (phone, email, url)
+- BigSitemap - Postgres + Puppeteer
+- SEOCI - Automated SEO Testing
 - ngram
 - entities // Google NLP
-- content extract (phone, email, url)
-- SERP via https://scrapeulous.com
-- SERP via SERPAPI
