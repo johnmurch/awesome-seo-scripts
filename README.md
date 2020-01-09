@@ -1,5 +1,6 @@
 # awesome-seo-scripts
-Random SEO scripts - WIP
+
+I write a lot of random code around SEO and want to make more of it public in 2020.
 
 **If you have an idea, but not sure how to code it, hit me up [@johnmurch](https://www.twitter.com/johnmurch) on twitter**
 
