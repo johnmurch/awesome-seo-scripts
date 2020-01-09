@@ -1,6 +1,8 @@
 # awesome-seo-scripts
 Random SEO scripts - WIP
 
+**If you have an idea, but not sure how to code it, hit me up [https://www.twitter.com/johnmurch](@johnmurch) on twitter**
+
 ## Archive.org
 This script allows you to download all the URLs from a given URL.
 
