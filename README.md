@@ -16,10 +16,15 @@ This script reads URLs from urls.txt (One URL Per Line) and checks for redirects
 ``` cd puppeteer-redirect && npm install ```
 ``` node puppeteer-redirect.js```
 
+## Sourcs vs Dom
+This script fetches a webpage with Puppeteer and saves both the source and DOM of a webpage. Great for identifying some SEO issues. **Be sure to change the URL in fetch.js (line 7)**
+
+``` cd domVsSource && npm install ```
+``` node fetch.js```
+
 
 ## Upcoming
 @TODO
-- SourceVSDom
 - Backlink Checker
 - MetaTags Parsing
 - content extract (phone, email, url)

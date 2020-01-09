@@ -4,7 +4,7 @@ const os = require('os');
 const puppeteer = require('puppeteer');
 
 const PUPPETEER_OPTIONS = {
-	headless: false,
+	headless: true,
   ignoreHTTPSErrors: true,
   slowMo: 25,
   args: [
@@ -137,7 +137,6 @@ function fetch(que) {
 					return(`Error going to URL: ${e}`);
 				}
 			}
-			// console.log('SHUT DOWN!')
 			process.exit(0);
 		})();
 	} catch (err) {
@@ -146,8 +145,6 @@ function fetch(que) {
 }
 
 
-// TODO - Change to read in CSV file of URLs***
-// TODO - change to API call or DB query
 const getMockQue = async () => {
 	let urls = fs.readFileSync('urls.txt', 'utf8').toString().split("\n");
 	// filter out empty elements

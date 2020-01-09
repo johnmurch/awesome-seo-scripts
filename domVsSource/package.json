@@ -1,0 +1,14 @@
+{
+  "name": "dom-vs-source",
+  "version": "1.0.0",
+  "description": "Download Source and Dom from URL",
+  "main": "fetch.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^2.0.0"
+  }
+}
