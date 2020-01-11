@@ -26,9 +26,16 @@ This script fetches a webpage with Puppeteer and saves both the source and DOM o
 ``` node fetch.js```
 
 
+## Backlink Checker
+This script fetches a webpage with Puppeteer and loops through all links for a specific backlink. This script also pulls out the anchor text and rel attributes (e.g. nofollow)
+
+``` cd backlink-checker && npm install ```
+``` Update urls.txt```
+``` node checker.js```
+
+
 ## Upcoming
 @TODO
-- Backlink Checker
 - MetaTags Parsing
 - content extract (phone, email, url)
 - BigSitemap - Postgres + Puppeteer
