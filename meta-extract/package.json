@@ -1,14 +1,15 @@
 {
-  "name": "backlink-checker",
+  "name": "meta-extract",
   "version": "1.0.0",
-  "description": "Check a URL for a backlink",
-  "main": "checker.js",
+  "description": "Extract Meta Data from webpage",
+  "main": "fetch.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "puppeteer": "^2.0.0"
+    "puppeteer": "^2.0.0",
+    "web-auto-extractor": "^1.0.17"
   }
 }

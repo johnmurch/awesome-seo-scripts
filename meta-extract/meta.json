@@ -1,0 +1,118 @@
+{
+    "metatags": {
+        "viewport": [
+            "width=device-width, initial-scale=1"
+        ],
+        "description": [
+            "Python is a programming language that can help you uncover incredible SEO insights and save you time by automating time-consuming tasks. But for those who haven't explored this side of search, it can be intimidating. Britney Muller and a true python expert offer an intro into a helpful tool that's worth your time to learn."
+        ],
+        "undefined": [
+            null
+        ],
+        "X-UA-Compatible": [
+            "IE=edge,chrome=1"
+        ],
+        "Content-Type": [
+            "text/html; charset=utf-8"
+        ],
+        "twitter:site": [
+            "@Moz"
+        ],
+        "twitter:account_id": [
+            "15651700"
+        ],
+        "fb:page_id": [
+            "8489236245"
+        ],
+        "og:image": [
+            "https://moz.com/uploads/og_image/5e17cf832522c4.38466335.jpg"
+        ],
+        "og:title": [
+            "Intro to Python - Whiteboard Friday"
+        ],
+        "og:description": [
+            "Python is a programming language that can help you uncover incredible SEO insights and save you time by automating time-consuming tasks. But for those who haven't explored this side of search, it can be intimidating. Britney Muller and a true python expert offer an intro into a helpful tool that's worth your time to learn."
+        ],
+        "og:type": [
+            "article"
+        ],
+        "og:site_name": [
+            "Moz"
+        ],
+        "fb:admins": [
+            "22408537"
+        ],
+        "og:url": [
+            "https://moz.com/blog/intro-to-python"
+        ],
+        "twitter:title": [
+            "Intro to Python - Whiteboard Friday"
+        ],
+        "twitter:description": [
+            "Python is a programming language that can help you uncover incredible SEO insights and save you time by automating time-consuming tasks. But for those who haven't explored this side of search, it can be intimidating. Britney Muller and a true python expert offer an intro into a helpful tool that's worth your time to learn."
+        ],
+        "twitter:card": [
+            "summary_large_image"
+        ],
+        "twitter:image:src": [
+            "https://moz.com/uploads/twitter_image/5e17cf824e09e0.87672624.jpg"
+        ],
+        "twitter:creator": [
+            "@BritneyMuller"
+        ],
+        "referrer": [
+            "unsafe-url"
+        ]
+    },
+    "microdata": {},
+    "rdfa": {},
+    "jsonld": {
+        "Article": [
+            {
+                "@context": "http://schema.org",
+                "@type": "Article",
+                "mainEntityOfPage": {
+                    "@type": "WebPage",
+                    "@id": "https://moz.com/blog/intro-to-python"
+                },
+                "headline": "Intro to Python - Whiteboard Friday",
+                "image": {
+                    "@type": "ImageObject",
+                    "url": "https://moz.com/uploads/og_image/5e17cf832522c4.38466335.jpg",
+                    "height": 440,
+                    "width": 880
+                },
+                "datePublished": "2020-01-10T00:02:00-08:00",
+                "dateModified": "2020-01-09T17:12:35-08:00",
+                "author": {
+                    "@type": "Person",
+                    "name": "Britney Muller",
+                    "sameAs": [
+                        "https://moz.com/community/users/514135",
+                        "https://twitter.com/BritneyMuller"
+                    ]
+                },
+                "publisher": {
+                    "@type": "Organization",
+                    "name": "Moz",
+                    "url": "https://moz.com",
+                    "sameAs": [
+                        "https://twitter.com/moz",
+                        "https://www.facebook.com/moz/",
+                        "https://www.youtube.com/user/MozHQ",
+                        "https://www.linkedin.com/company/moz",
+                        "https://www.instagram.com/moz_hq/",
+                        "https://www.pinterest.com/mozhq/"
+                    ],
+                    "logo": {
+                        "@type": "ImageObject",
+                        "url": "https://d2eeipcrcdle6.cloudfront.net/brand-guide/logos/moz_blue.png",
+                        "width": 134,
+                        "height": 39
+                    }
+                },
+                "description": "Python is a programming language that can help you uncover incredible SEO insights and save you time by automating time-consuming tasks. But for those who haven't explored this side of search, it can be intimidating. Britney Muller and a true python expert offer an intro into a helpful tool that's worth your time to learn."
+            }
+        ]
+    }
+}

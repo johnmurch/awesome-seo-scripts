@@ -34,9 +34,16 @@ This script fetches a webpage with Puppeteer and loops through all links checkin
 ``` node checker.js```
 
 
+## [Meta Extract](https://github.com/johnmurch/awesome-seo-scripts/tree/master/meta-extract)
+This script fetches a URL and parses the meta data using [Web Auto Extractor](https://github.com/indix/web-auto-extractor#readme) which parses meta tags as well as Microdata, RDFa-lite and JSON-LD
+
+``` cd meta-extract && npm install ```
+``` node fetch.js https://www.domain.com/product```
+``` cat meta.json```
+
+
 ## Upcoming
 @TODO
-- MetaTags Parsing
 - content extract (phone, email, url)
 - BigSitemap - Postgres + Puppeteer
 - SEOCI - Automated SEO Testing
