@@ -38,7 +38,9 @@ This script fetches a webpage with Puppeteer and loops through all links checkin
 This script fetches a URL and parses the meta data using [Web Auto Extractor](https://github.com/indix/web-auto-extractor#readme) which parses meta tags as well as Microdata, RDFa-lite and JSON-LD
 
 ``` cd meta-extract && npm install ```
+
 ``` node fetch.js https://www.domain.com/product```
+
 ``` cat meta.json```
 
 
