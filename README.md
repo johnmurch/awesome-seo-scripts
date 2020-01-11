@@ -30,7 +30,9 @@ This script fetches a webpage with Puppeteer and saves both the source and DOM o
 This script fetches a webpage with Puppeteer and loops through all links checking for a specific backlink. This script also pulls out the anchor text and rel attributes (e.g. nofollow)
 
 ``` cd backlink-checker && npm install ```
+
 ``` Update urls.txt```
+
 ``` node checker.js```
 
 
