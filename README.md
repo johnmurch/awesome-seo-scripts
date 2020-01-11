@@ -4,21 +4,21 @@ I write a lot of random code around SEO and want to make more of it public in 20
 
 **If you have an idea, but not sure how to code it, hit me up [@johnmurch](https://www.twitter.com/johnmurch) on twitter**
 
-## Archive.org
+## [Archive.org - WayBack Machine](https://github.com/johnmurch/awesome-seo-scripts/tree/master/archive.org)
 This script allows you to download all the URLs from a given domain.
 
 ``` cd archive.org && npm install ```
 
 ``` node fetch.js https://www.domain.com```
 
-## Puppeteer Redirect
+## [Puppeteer Redirect](https://github.com/johnmurch/awesome-seo-scripts/tree/master/puppeteer-redirect)
 This script reads URLs from urls.txt (One URL Per Line) and checks for redirects using Puppeteer
 
 ``` cd puppeteer-redirect && npm install ```
 
 ``` node puppeteer-redirect.js```
 
-## Sourcs vs Dom
+## [Sourcs vs Dom](https://github.com/johnmurch/awesome-seo-scripts/tree/master/domVsSource)
 This script fetches a webpage with Puppeteer and saves both the source and DOM of a webpage. Great for identifying some SEO issues. **Be sure to change the URL in fetch.js (line 7)**
 
 ``` cd domVsSource && npm install ```
@@ -26,7 +26,7 @@ This script fetches a webpage with Puppeteer and saves both the source and DOM o
 ``` node fetch.js```
 
 
-## Backlink Checker
+## [Backlink Checker](https://github.com/johnmurch/awesome-seo-scripts/tree/master/backlink-checker)
 This script fetches a webpage with Puppeteer and loops through all links for a specific backlink. This script also pulls out the anchor text and rel attributes (e.g. nofollow)
 
 ``` cd backlink-checker && npm install ```
