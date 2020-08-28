@@ -1,5 +1,5 @@
 ## Overview
-This script reads URLs from urls.txt (Note: 2 URLs seperated by \) the fetch url first and the "backlink" or expected link second. This script uses Puppeteer for checking links
+This script reads URLs from urls.txt (Note: 2 URLs seperated by `\`) the fetch url first and the "backlink" or expected link second. This script uses Puppeteer for checking links
 
 
 ## Install
