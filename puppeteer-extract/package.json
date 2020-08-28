@@ -1,0 +1,14 @@
+{
+  "name": "puppeteer-extract",
+  "version": "1.0.0",
+  "description": "Extract URL, Email and Phone from websites",
+  "main": "puppeteer-extract.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^2.1.1"
+  }
+}
