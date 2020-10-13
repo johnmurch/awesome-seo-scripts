@@ -20,7 +20,7 @@ This script reads URLs from urls.txt (One URL Per Line) and checks for redirects
 
 ` node puppeteer-redirect.js`
 
-## [Sourcs vs Dom](https://github.com/johnmurch/awesome-seo-scripts/tree/master/domVsSource)
+## [Sources vs Dom](https://github.com/johnmurch/awesome-seo-scripts/tree/master/domVsSource)
 
 This script fetches a webpage with Puppeteer and saves both the source and DOM of a webpage. Great for identifying some SEO issues. **Be sure to change the URL in fetch.js (line 7)**
 
