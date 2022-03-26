@@ -9,7 +9,7 @@
   "author": "",
   "license": "MIT",
   "dependencies": {
-    "minimist": "^1.2.5",
+    "minimist": "^1.2.6",
     "puppeteer": "^2.0.0",
     "web-auto-extractor": "^1.0.17"
   }
